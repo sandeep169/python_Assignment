@@ -12,6 +12,6 @@ for i in List:
         odd_item.append(i)
 
 print("*"*20)
-print("Even Item List"+str(even_item))
+print("Even Item List : ",even_item)
 
-print("Odd Item List"+str(odd_item))
+print("Odd Item List : ",odd_item)

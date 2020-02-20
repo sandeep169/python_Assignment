@@ -9,7 +9,7 @@ print("*"*50)
 Merge_list=List_first +List_second
 
 
-print("Merged List: "+str(Merge_list))
+print("Merged List: ",Merge_list)
 Merge_list.sort()
 Sorted_list=Merge_list
-print ("Sorted List: "+str(Sorted_list))
+print ("Sorted List: ",Sorted_list)

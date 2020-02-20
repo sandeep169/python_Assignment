@@ -12,4 +12,4 @@ for i in List:
     if i<highest and i>sec_highest:
         sec_highest=i
 print("*"*20)
-print("second highest from the list :"+str(sec_highest))
+print("second highest from the list : ",sec_highest)
